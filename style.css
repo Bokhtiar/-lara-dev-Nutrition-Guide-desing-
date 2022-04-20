@@ -37,8 +37,14 @@
 }
 /* slider end here */
 
-
-
+/* lestest news start here */
+.news > img{
+    height: 60px;
+    width: 70px;
+    border-radius: 50px;
+    text-align: center;
+}
+/* lestest news end here */
 
 /* contact form start here */
 .btn-submit{
