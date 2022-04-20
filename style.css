@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&family=Poppins:ital,wght@0,600;1,500;1,600;1,700&family=Raleway:wght@100&family=Ubuntu:wght@300&display=swap');
+:root {
+    --parpule: #4A235A;
+    --green: #4BEFB0;
+    --black: #000000;
+    --white: #fff;
+
+    /*font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif; */
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+
+/* navbar desing start */
+.bg-color{
+    background-color: #4A235A;
+}
+
+.nav-list > li > a {
+    color: var(--white);
+    text-transform: uppercase;
+}
+
+/* navbar desing end here  */
+
+
+/* slider start here */
+.slider-img > img{
+    height: 500px;
+    width: 100%;
+}
+/* slider end here */
